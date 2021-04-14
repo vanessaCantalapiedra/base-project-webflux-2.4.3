@@ -1,0 +1,6 @@
+#webclient config
+base-webclient:
+  timeouts:
+    connection: 3000
+    read: 3000
+
